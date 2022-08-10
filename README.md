@@ -1,4 +1,4 @@
-# CS145 Replacement Project 1
+# CS145 Replacement Project
 This project was made by Kathryn Cantor from Lab-2 of CS145 A.Y.2021-2022B.
 The program created is an implementation of the sender side of a protocol. The network protocol 
 used in tis project is a pipelined protocol built on top of UDP. The goal is for the payload of
