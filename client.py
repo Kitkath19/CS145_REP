@@ -1,3 +1,6 @@
+import socket           # making and connecting sockets and setting the timeout value
+import argparse         # input
+
 # LEVEL 1: Able to send Initiate Packet (to the receiver or test server), and receive the Accept Packet (from the receiver or test server). 25 points.
 # filename: client.py
 
